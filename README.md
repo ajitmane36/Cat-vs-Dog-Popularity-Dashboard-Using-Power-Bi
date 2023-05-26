@@ -1,5 +1,9 @@
 # Cat vs Dog Popularity Dashboard Using Power Bi
+
 - This repository contains a dashboard created in Power BI to visualize the popularity of cats and dogs in the United States. The dashboard provides insights and analysis based on the available data.
+
+### <ins>Dashboard Link</ins> - [Click Here](https://app.powerbi.com/view?r=eyJrIjoiYmM4MTM0YWItMTJlYS00ODBiLWFhZmUtMTJjYTMyYzJmNjg1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+
 
 ### <ins> Dataset <ins>
 - The dataset used for this analysis includes information on cat and dog ownership, preferences, and trends in the U.S. The data was collected from various reliable sources and preprocessed for analysis.
