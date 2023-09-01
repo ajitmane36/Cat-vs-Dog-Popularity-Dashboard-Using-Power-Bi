@@ -4,6 +4,8 @@
 
 ### <ins>Dashboard Link</ins> - [Click Here](https://app.powerbi.com/view?r=eyJrIjoiYmM4MTM0YWItMTJlYS00ODBiLWFhZmUtMTJjYTMyYzJmNjg1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
+### <ins> Dashboard Preview</ins>
+![Dashboard](https://github.com/ajitmane36/Cat-vs-Dog-Popularity-Dashboard-Using-Power-Bi/blob/03756e186c2263e3b0987f66e9ab79b92629730b/Cat_vs_Dog_Population_Dashboard.jpg)
 
 ### <ins> Dataset <ins>
 - The dataset used for this analysis includes information on cat and dog ownership, preferences, and trends in the U.S. The data was collected from various reliable sources and preprocessed for analysis.
